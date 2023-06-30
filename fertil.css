@@ -1,0 +1,41 @@
+.par{
+    font-size: medium;
+}
+
+.till{
+    font-size: x-large;
+}
+
+.tam {
+    background-image: url(./Images/TiposFertilizantesMinerales.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 900px) {
+    .tam{
+       width: 800px; 
+       height: 500px;
+    }
+
+    .lado{
+        width: 100%;
+    }
+}
+
+.tam2 {
+    background-image: url(./Images/fertilizantes1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 900px) {
+    .tam2{
+        width: 800px; 
+        height: 500px; 
+    }
+}
+
+.subtitle{
+    font-size: large;
+}

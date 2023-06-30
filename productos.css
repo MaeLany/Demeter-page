@@ -1,0 +1,38 @@
+.img_grande1{
+    background-image: url(./Images/Abonadora.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: cover;
+}
+
+.img_grande2{
+    background-image: url(./Images/Cosechadora.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: cover;
+}
+
+.img_grande3{
+    background-image: url(./Images/Empacadora.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: cover;
+}
+
+.img_grande4{
+    background-image: url(./Images/Sembradora.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: cover;
+}
+
+.img_grande5{
+    background-image: url(./Images/Segadora.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    background-size: cover;
+}
+
+.sp{
+    height: 500px;
+}

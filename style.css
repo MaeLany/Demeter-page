@@ -1,0 +1,36 @@
+
+.banner {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(180deg, #000000, #3d3700), url(./Images/campos.jpg);
+    background-blend-mode: screen;
+    background-size: cover;
+}
+
+.wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.iconos{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.img{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.button{
+    background-color: #3E5916;
+}
+
